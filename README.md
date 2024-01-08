@@ -1,2 +1,3 @@
 # Py5
-Programme en py5
+Utilisation du langage python
+Programme en py5 
